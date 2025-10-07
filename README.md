@@ -38,3 +38,6 @@ This project allows users to explore the effect of data noise and sample size on
 
 $streamlit run hw1.py
 
+Demo Site
+The application is deployed on Streamlit Cloud and can be accessed here: [https://aiotda.streamlit.app/](https://aiothwgit-6cuzabuvhtzvmcxhexdy2g.streamlit.app/)
+
